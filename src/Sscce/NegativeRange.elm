@@ -1,6 +1,6 @@
 module Sscce.NegativeRange exposing (rule)
 
-{-|
+{-| SSCCE for elm-review behavior with negative ranges (where start and end are inverted).
 
 @docs rule
 
